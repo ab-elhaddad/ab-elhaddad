@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdelrrahman Elhaddad.</h1>
-<h3 align="center">A passionate developer from Egypt enthusiastic about Web Development, Database, DevOps and Competitive Programming.</h3>
+<h3 align="center">A Senior CS student and a passionate developer enthusiastic about Web Development, Database, DevOps and Competitive Programming.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on <b>Sakkeny (Graduation Project).</b><br>🌱 I’m currently learning <b>MongoDB, React and DevOps stuff.</b><br>💬 Ask me about <b>Node.js, Express, PostgreSQL, AWS and CircleCI.</b><br>📄 Know about my experiences <b><a href="https://drive.google.com/file/d/1UZ6KVZeWmJvMvIXt41lai8r6z4AyKCl-/view?usp=sharing">My Resume</a>.</b>
+🔭 I’m currently working on <b>Sakkeny Mobile Application Backend (Graduation Project).</b><br>🌱 I’m currently learning <b>MongoDB, React, and DevOps stuff.</b><br>💬 Ask me about <b>Node.js, Express, PostgreSQL, AWS, and CircleCI.</b><br>📄 Know about my experiences <b><a href="https://drive.google.com/file/d/1UZ6KVZeWmJvMvIXt41lai8r6z4AyKCl-/view?usp=sharing">My Resume</a>.</b>
 
 
 ## 🌐 Socials:
