@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Egypt enthusiastic about Web Development, Database, DevOps and Competitive Programming.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Sakkeny (Graduation Project).<br>🌱 I’m currently learning MongoDB, React and DevOps stuff.<br>💬 Ask me about Node.js, Express, PostgreSQL, AWS and CircleCI.<br>📄 Know about my experiences drive.google.com/file/d/1oEMUSvc4Jd-WFdqF71gbJkJeOMQ-JEg6/view?usp=sharing
+🔭 I’m currently working on <b>Sakkeny (Graduation Project).</b.<br>🌱 I’m currently learning MongoDB, React and DevOps stuff.<br>💬 Ask me about Node.js, Express, PostgreSQL, AWS and CircleCI.<br>📄 Know about my experiences drive.google.com/file/d/1oEMUSvc4Jd-WFdqF71gbJkJeOMQ-JEg6/view?usp=sharing
 
 
 ## 🌐 Socials:
