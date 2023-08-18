@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science fresh graduate and Backend Developer with problem solving skills and knowledge of developing server-side applications, designing database schemas, and deploying applications on cloud services.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on <b>[Sakkeny](https://github.com/ab-elhaddad/Sakkeny). a Backend System for a Mobile Application (Graduation Project).</b><br>🌱 I’m currently learning <b>MongoDB, React, and Microsoft Azure.</b><br>💬 Ask me about <b>Node.js, Express, PostgreSQL, AWS, and CircleCI.</b><br>📄 Know about my experiences <b><a href="https://drive.google.com/file/d/1onD2y9MFohmZvneZNYYRcerowHKFcX3_/view?usp=sharing">My Resume</a>.</b>
+🔭 I’m currently a Backend Engineer Intern [@zJunior](https://github.com/zjunior-infra)</b><br>🌱 I’m currently learning <b>MongoDB, React, and Next.js.</b><br>💬 Ask me about <b>Node.js, Express, PostgreSQL, AWS, and CircleCI.</b><br>📄 Know about my experiences <b><a href="https://drive.google.com/file/d/19MuzpGiYoZlLkK6nTpqQMF75j1XiK6fN/view?usp=sharing">My Resume</a>.</b>
 
 
 ## 🌐 Socials:
