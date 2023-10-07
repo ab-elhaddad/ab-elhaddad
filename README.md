@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdelrrahman Elhaddad.</h1>
-<h3 align="center">Computer Science fresh graduate and Backend Developer with problem solving skills and knowledge of developing server-side applications, designing database schemas, and deploying applications on cloud services.</h3>
+<h1 align="center" style="color:white;"> Hi 👋, I'm Abdelrrahman Elhaddad. </h1>
+<h3 align="center" style="color:white;"> Computer Science fresh graduate and Backend Developer with problem-solving skills and knowledge of developing server-side applications, designing database schemas, and deploying applications on cloud services. </h3>
 
 # 💫 About Me:
 🔭 I’m currently a Backend Engineer Intern <b>[@zJunior](https://github.com/zjunior-infra)</b><br>🌱 I’m currently learning <b>MongoDB, React, and Next.js.</b><br>💬 Ask me about <b>Node.js, Express, PostgreSQL, AWS, and CircleCI.</b><br>📄 Know about my experiences <b><a href="https://drive.google.com/file/d/19MuzpGiYoZlLkK6nTpqQMF75j1XiK6fN/view?usp=sharing">My Resume</a>.</b>
