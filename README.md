@@ -1,5 +1,5 @@
 <h1 align="center" style="color:white; text-decoration:none;"> Hi 👋, I'm Abdelrrahman Elhaddad. </h1>
-<h3 align="center" style="color:white;"> Computer Science fresh graduate and Backend Developer with problem-solving skills and knowledge of developing server-side applications, designing database schemas, and deploying applications on cloud services. </h3>
+<h3 align="center" style="color:white;"> Software Engineer with problem-solving skills and knowledge of developing fullstack applications, designing database schemas, and deploying applications on cloud services. </h3>
 
 # 💫 About Me:
 🌱 I’m currently learning <b>React.</b><br>💬 Ask me about <b>Node.js, Express, PostgreSQL, AWS, and CircleCI.</b><br>📄 Know about my experiences <b><a href="https://drive.google.com/file/d/1HM56-1Qaaxu8IaTvBgXbwabpBezc33Qh/view?usp=sharing">My Resume</a>.</b>
