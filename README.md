@@ -1,5 +1,5 @@
 <h1 align="center" style="color:white; text-decoration:none;"> Hi 👋, I'm Abdelrrahman Elhaddad. </h1>
-<h3 align="center" style="color:white;"> Software Engineer with problem-solving skills and knowledge of developing fullstack applications, designing database schemas, and deploying applications on cloud services. </h3>
+<h3 align="center" style="color:white;"> Software Engineer with problem-solving skills, knowledge of developing fullstack applications, designing databases, and deploying applications on cloud services. </h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abelhaddad) [![LeetCode](https://img.shields.io/badge/LeetCode-8fad38?logo=leetcode&logoColor=white)](https://leetcode.com/ab_elhaddad/) [![Codeforces](https://img.shields.io/badge/Codeforces-white?logo=codeforces&logoColor=2163b6)](https://codeforces.com/profile/ab.elhaddad)
