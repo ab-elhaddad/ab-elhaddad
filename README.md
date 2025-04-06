@@ -6,7 +6,7 @@
 
 ## 🚀 What’s Happening
 
-- 🔭 Currently working with [SalamDev](https://github.com/Salamdevcorp)
+- 🔭 Currently working at [SalamDev](https://github.com/Salamdevcorp)
 - 👨‍💻 Solving challenges on [LeetCode](https://leetcode.com/ab_elhaddad/) and [Codeforces](https://codeforces.com/profile/ab.elhaddad)
 - 💬 Ask me about **TypeScript, Node.js, React, Cloud Deployment, and Database Design**
 
