@@ -28,7 +28,7 @@
 ## 🛠️ Tools & Tech
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,bash,nodejs,deno,express,nest,react,nextjs,astro,tailwindcss,styledcomponents,redux,jest,aws,azure,docker,vercel,githubactions,postgres,mysql,mongodb,redis,prisma,supabase&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,bash,nodejs,deno,express,nest,graphql,react,nextjs,astro,tailwindcss,styledcomponents,redux,jest,aws,azure,docker,vercel,githubactions,postgres,mysql,mongodb,redis,prisma,supabase&perline=6" />
   </a>
 </p>
 
