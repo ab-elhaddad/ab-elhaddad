@@ -22,10 +22,10 @@
   <a href="https://codeforces.com/profile/ab.elhaddad" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <!-- Add any other social platforms you'd like to include -->
 </p>
 
 ## 🛠️ Tools & Tech
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,go,cpp,bash,nodejs,deno,express,nest,graphql,electron,react,nextjs,astro,tailwindcss,mui,styledcomponents,redux,jest,aws,azure,docker,vercel,githubactions,postgres,mysql,mongodb,redis,prisma,supabase&perline=6" />
@@ -35,6 +35,7 @@
 ---
 
 ## 📈 Stats & Achievements
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ab-elhaddad&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="GitHub Stats" />
   <br/><br/>
@@ -46,6 +47,7 @@
 ---
 
 ## 💡 Random Dev Wisdom
+
 <div align="center">
  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" />
 </div>
