@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,cpp,bash,nodejs,deno,express,nest,graphql,electron,react,nextjs,astro,tailwindcss,mui,styledcomponents,redux,jest,aws,azure,docker,vercel,githubactions,postgres,mysql,mongodb,redis,prisma,supabase&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,cpp,nodejs,deno,express,nest,graphql,rabbitmq,electron,react,nextjs,astro,tailwindcss,mui,styledcomponents,redux,jest,aws,azure,docker,vercel,githubactions,postgres,mysql,mongodb,redis,prisma,supabase&perline=6" />
   </a>
 </p>
 
