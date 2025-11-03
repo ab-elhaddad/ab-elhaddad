@@ -13,6 +13,9 @@
 ## 🔗 Connect With Me
 
 <p align="left">
+  <a href="https://x.com/AElhaddad55264" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/abelhaddad" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
