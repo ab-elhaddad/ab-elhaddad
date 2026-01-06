@@ -40,11 +40,16 @@
 ## 📈 Stats & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ab-elhaddad&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-elhaddad&theme=transparent&hide_border=true&stroke=61DAFB&ring=61DAFB" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ab-elhaddad&theme=darkhub&no-frame=true&title_color=61DAFB" alt="GitHub Trophies" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=ab-elhaddad&show_icons=true&theme=github_dark&rank_icon=percentile"
+    />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ab-elhaddad&show_icons=true" />
+  </picture>
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ab-elhaddad&theme=github_dark"/>
 </div>
 
 ---
