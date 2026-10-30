@@ -38,9 +38,7 @@
 
 <div align="center">
   <picture>
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=ab-elhaddad&show_icons=true&theme=github_dark&rank_icon=percentile"
-    />
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=ab-elhaddad&show_icons=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ab-elhaddad&theme=github_dark" />
+    <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ab-elhaddad&theme=github" />
   </picture>
 </div>
